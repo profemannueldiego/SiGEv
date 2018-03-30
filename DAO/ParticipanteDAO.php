@@ -27,7 +27,7 @@ class ParticipanteDAO
 
     public function inserir($Participante)
     {
-        
+
         $nomeCompleto = $Participante->getNomeCompleto();
         $cpf = $Participante->getCpf();
         $cidade = $Participante->getCidadeOrigem();

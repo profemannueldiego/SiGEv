@@ -35,15 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParticipanteDAO.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ParticipanteDAO.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DAO/ParticipanteDAO.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="638">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
-                <marker date="1522439689620" expanded="true" signature="159:194" ph="SELECT * FRO... participantes" />
-                <marker date="1522439689620" expanded="true" signature="1284:1441" ph="INSERT INTO participantes... " />
+                <marker date="1522439882421" expanded="true" signature="159:194" ph="SELECT * FRO... participantes" />
+                <marker date="1522439882421" expanded="true" signature="1276:1433" ph="INSERT INTO participantes... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conexao.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conf/Conexao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,6 +72,7 @@
         <option value="$PROJECT_DIR$/View/Participante/exibir.php" />
         <option value="$PROJECT_DIR$/Model/Participante.class.php" />
         <option value="$PROJECT_DIR$/DAO/ParticipanteDAO.php" />
+        <option value="$PROJECT_DIR$/Conf/Conexao.php" />
       </list>
     </option>
   </component>
@@ -151,6 +162,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SiGEv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SiGEv" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conf" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -228,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2839000" />
+    <option name="totallyTimeSpent" value="3096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -406,12 +431,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DAO/ParticipanteDAO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="638">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <marker date="1522439689620" expanded="true" signature="159:194" ph="SELECT * FRO... participantes" />
-            <marker date="1522439689620" expanded="true" signature="1284:1441" ph="INSERT INTO participantes... " />
+            <marker date="1522439882421" expanded="true" signature="159:194" ph="SELECT * FRO... participantes" />
+            <marker date="1522439882421" expanded="true" signature="1276:1433" ph="INSERT INTO participantes... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conf/Conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
