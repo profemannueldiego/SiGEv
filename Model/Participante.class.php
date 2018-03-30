@@ -10,6 +10,23 @@ class Participante
     private $senha;
     private $cpf;
     private $cidadeOrigem;
+    private $dtRegistro;
+
+    /**
+     * @return mixed
+     */
+    public function getDtRegistro()
+    {
+        return $this->dtRegistro;
+    }
+
+    /**
+     * @param mixed $dtRegistro
+     */
+    public function setDtRegistro($dtRegistro)
+    {
+        $this->dtRegistro = $dtRegistro;
+    }
 
     /**
      * @return mixed

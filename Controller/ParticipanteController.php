@@ -1,6 +1,6 @@
 <?php
-require_once "model/Participante.php";
-require_once "model/ParticipanteDAO.php";
+require_once "Model/Participante.php";
+require_once "DAO/ParticipanteDAO.php";
 
 class atividadeController
 {
